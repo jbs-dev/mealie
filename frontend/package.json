@@ -34,7 +34,7 @@
     "marked": "^15.0.12",
     "next-auth": "~4.21.1",
     "nuxt": "^3.15.4",
-    "typescript": "5.3",
+    "typescript": "5.9.2",
     "vite": "^6.2.0",
     "vite-plugin-commonjs": "^0.10.4",
     "vue-advanced-cropper": "^2.8.9",
