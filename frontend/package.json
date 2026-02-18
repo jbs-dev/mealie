@@ -33,7 +33,7 @@
     "json-editor-vue": "^0.18.1",
     "marked": "^15.0.12",
     "next-auth": "~4.21.1",
-    "nuxt": "^3.20.0",
+    "nuxt": "^3.19.0",
     "typescript": "5.3",
     "vite": "^6.2.0",
     "vite-plugin-commonjs": "^0.10.4",
