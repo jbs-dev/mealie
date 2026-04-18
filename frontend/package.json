@@ -21,7 +21,7 @@
     "@mdi/js": "^7.4.47",
     "@nuxt/eslint": "1.2.0",
     "@nuxt/fonts": "^0.11.4",
-    "@nuxtjs/i18n": "^10.0.0",
+    "@nuxtjs/i18n": "^10.2.4",
     "@nuxtjs/proxy": "^2.1.0",
     "@sidebase/nuxt-auth": "0.10.0",
     "@vite-pwa/nuxt": "0.10.6",
@@ -40,6 +40,9 @@
     "vue-advanced-cropper": "^2.8.9",
     "vue-draggable-plus": "^0.6.0",
     "vuetify-nuxt-module": "0.18.3"
+  },
+  "resolutions": {
+    "picomatch": "^4.0.4"
   },
   "devDependencies": {
     "@nuxt/types": "^2.18.1",
