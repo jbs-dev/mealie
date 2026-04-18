@@ -41,9 +41,6 @@
     "vue-draggable-plus": "^0.6.0",
     "vuetify-nuxt-module": "0.18.3"
   },
-  "resolutions": {
-    "picomatch": "^4.0.4"
-  },
   "devDependencies": {
     "@nuxt/types": "^2.18.1",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
