@@ -26,7 +26,7 @@
     "@sidebase/nuxt-auth": "0.10.0",
     "@vite-pwa/nuxt": "0.10.6",
     "@vueuse/core": "^12.7.0",
-    "axios": "^1.15.0",
+    "axios": "^1.15.1",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
     "isomorphic-dompurify": "^2.22.0",
